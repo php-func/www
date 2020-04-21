@@ -1,3 +1,3 @@
-## Welcome to GitHub Pages
+## Welcome to PHPfunc Project
 
 www.phpfunc.com
