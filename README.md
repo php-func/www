@@ -96,7 +96,8 @@ Or just documention: combine, publish, open browser
 
 ## TODO [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/php-func/www/edit/main/DOCS/TODO.md)
 
-
++ composer project
++ basic functions
 
 ---
 
